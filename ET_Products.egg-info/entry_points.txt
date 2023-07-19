@@ -1,3 +1,0 @@
-[console_scripts]
-et_products = cdh_etl:et_products
-

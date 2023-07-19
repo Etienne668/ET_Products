@@ -1,0 +1,9 @@
+README.md
+setup.py
+ET_Products.egg-info/PKG-INFO
+ET_Products.egg-info/SOURCES.txt
+ET_Products.egg-info/dependency_links.txt
+ET_Products.egg-info/entry_points.txt
+ET_Products.egg-info/not-zip-safe
+ET_Products.egg-info/requires.txt
+ET_Products.egg-info/top_level.txt
